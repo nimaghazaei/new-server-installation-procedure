@@ -3,7 +3,7 @@
 **1. Clean up**
  - first of all use **blower** to clean dust from main board , fans , slots and etc .
  - use dry electronic contact cleaner spray for cleaning cpu sockets , DIMM slots , PCIe slots and etc if it necessary .
- - * make sure all socket and slots are dry when you want to pluge the server power .
+ - * make sure all socket and slots are dry when you want to plug the server power .
 
 **2. Test**
  - remove cpus rams and all unnecessary carts and modules from the server .
@@ -34,3 +34,9 @@
  - set OS ip manualy by using IPAM allocated range and update server target interface ip in inventory. also set ip description.
 
 **7. Rack Installation**
+ - mount rail kit in allocated rack and allocated rack position , then install server. update location section of target device in inventory.
+ - connect power and ethernet cables based on interfaces , power ports and outlets that you were set in inventory connectivity.
+ 
+**8. Labeling**
+ - put two lables on each power cable in the form of **sarver name - outlet number** in outlet side and **server name - port number** in server side.
+ - put two lables on each ethernet cable in the form of **sarver name - sw name - interface number** in sw / router / patch panel side and **server name - interface number** in server side.
