@@ -35,7 +35,7 @@
 
 **7. Rack Installation**
  - mount rail kit in allocated rack and allocated rack position , then install server. update location section of target device in inventory.
- - connect power and ethernet cables based on interfaces , power ports and outlets that you were set in inventory connectivity.
+ - connect power and ethernet cables based on interfaces , power ports and outlets that you were set in inventory connectivity .
  
 **8. Labeling**
  - put two lables on each power cable in the form of **sarver name - outlet number** in outlet side and **server name - port number** in server side.
