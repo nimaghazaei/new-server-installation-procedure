@@ -22,7 +22,7 @@
  - * make sure that every modules are fit in their slots and heat sinks are agitated by silicone thermal grease.
  
 **5. Update**
- - update firmwares , BIOS , IPMI , ILO and etc to latest stable version. ( for example in hp servers you should update SPP and IP with latest released version )
+ - update firmwares , BIOS , IPMI , ILO and etc to the latest stable version. ( for example in hp servers you should update SPP and IP with the latest released version )
  
 **6. Config and OS Installation**
  - set "saba" username by full access permission for ilo , ipmi , iDrack ..
